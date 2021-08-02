@@ -18,7 +18,7 @@ def chng():
     
 def call():
     
-    account_sid = 'SSID'
+    account_sid = 'YOUR SSID'
     auth_token = '##'
     client = Client(account_sid, auth_token)
     
