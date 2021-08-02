@@ -24,8 +24,8 @@ def call():
     
     client.calls.create(
                         url='http://demo.twilio.com/docs/voice.xml',
-                        to='+919713841314',
-                        from_='+13107158403'
+                        to='########',
+                        from_='######'
                     ) 
 
 def init():
